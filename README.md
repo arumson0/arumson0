@@ -1,6 +1,6 @@
 - 👋 Hello there! I’m Adrian Rumson (@arumson0)
 - 👋 Salve! Nomen mihi est Adrianus Rumsonius.
-- 👀 I’m interested in computational chemisty. With emphasis on density functional theory (DFT), layered materials, surfaces, and interfaces.
+- 👀 I’m interested in computational chemistry with emphasis on density functional theory (DFT), layered materials, surfaces, and interfaces.
 
 <!---
 arumson0/arumson0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
